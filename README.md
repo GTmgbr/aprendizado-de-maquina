@@ -51,10 +51,7 @@ Os resultados de classificação permaneceram praticamente idênticos entre o da
 ### K-Means
 O dataset modificado apresentou uma pequena redução no Silhouette Score, mostrando que a remoção dos atributos prejudicou a separação natural dos grupos.
 
-## Estrutura do Projeto
-
-- `atividade_ia.ipynb` → Notebook principal contendo todo o desenvolvimento do trabalho
-- `README.md` → Descrição do projeto
+![Image](https://github.com/user-attachments/assets/0fbadf77-b940-443e-a9c7-7a8ad0fdfde8)
 
 ## Conclusão
 
