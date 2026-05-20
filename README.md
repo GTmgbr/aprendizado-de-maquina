@@ -39,14 +39,9 @@ O objetivo foi analisar o impacto dessa modificação nos modelos de aprendizado
 - Métrica utilizada:
   - Silhouette Score
 
-## Bibliotecas Utilizadas
+## Bibliotecas Utilizadas : 
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- ucimlrepo
+pandas, numpy, matplotlib, seaborn, scikit-learn, ucimlrepo
 
 ## Resultados
 
